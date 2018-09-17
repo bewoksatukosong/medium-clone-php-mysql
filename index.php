@@ -14,7 +14,7 @@
     <title>Medium Clone</title>
   </head>
   <body>
-    <div class="container">
+    <div class="container-fluid">
         <header class="blog-header py-3">
             <div class="row flex-nowrap justify-content-between align-items-center">
                 <div class="col-4 pt-1">
@@ -33,6 +33,23 @@
                 </div>
             </div>
         </header>
+
+        <!-- Navigation Bar -->
+        <div class="nav-scroller py-1 mb-2">
+            <nav class="nav d-flex justify-content-between">
+                <a class="p-2 text-muted" href="#">HOME</a>
+                <a class="p-2 text-muted" href="#">YOUTH,NOW</a>
+                <a class="p-2 text-muted" href="#">CULTURE</a>
+                <a class="p-2 text-muted" href="#">TECH</a>
+                <a class="p-2 text-muted" href="#">ENTREPRENEUSHIP</a>
+                <a class="p-2 text-muted" href="#">SELF</a>
+                <a class="p-2 text-muted" href="#">POLITICS</a>
+                <a class="p-2 text-muted" href="#">DESIGN</a>
+                <a class="p-2 text-muted" href="#">SCIENCE</a>
+                <a class="p-2 text-muted" href="#">POPULAR</a>
+                <a class="p-2 text-muted" href="#">MORE</a>
+            </nav>
+        </div>
     </div>
 
     <!-- Optional JavaScript -->
