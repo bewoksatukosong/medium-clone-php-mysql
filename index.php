@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900" rel="stylesheet">
 
-    <title>Hello, world!</title>
+    <title>Medium Clone</title>
   </head>
   <body>
     <div class="container">
