@@ -28,7 +28,7 @@
                     <a href="#" class="text-muted">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mx-3"><circle cx="10.5" cy="10.5" r="7.5"></circle><line x1="21" y1="21" x2="15.8" y2="15.8"></line></svg>
                     </a>
-                    <a href="#" class="text-muted px-2">Sign in</a>
+                    <a href="#" class="text-success px-2">Sign in</a>
                     <a href="#" class="btn btn-sm btn-outline-success">Get Started</a>
                 </div>
             </div>
@@ -55,25 +55,50 @@
             <div class="card col-8">
               <img class="card-img-top" src="assets/img/light.jpg" alt="Card image cap">
               <div class="card-body">
-                <h5 class="card-title">Tutorial Fullstack Javascript</h5>
+                <h5 class="card-title">Tutorial Fullstack Python</h5>
                 <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text text-dark mb-0">Vanesha Prescilla</p>
+                <p class="card-text text-dark mb-0">Pradina R</p>
                 <p class="card-text"><small class="text-muted">Aug 28</small></p>
               </div>
             </div>
 
             <div class="card col-4">
                 <div class="card flex-md-row mb-4 box-shadow h-md-250">
-                    <div class="card-body d-flex flex-column align-items-start">
-                      <h5 class="px-5">
-                            <p class="card-text mb-auto text-dark">This is a wider</p>
-                      </h5>
-                      <p class="card-text mb-auto text-muted">This is a wider card with.</p>
-                      <p class="card-text text-dark mb-0"><small>Vanesha Prescilla</small></p>
-                      <p class="card-text"><small class="text-muted">Aug 28</small></p>
+                    <div class="card-body">
+                        <img class="card-img-top" src="assets/img/code.jpg" alt="Card image cap">
+                        <h5 class="card-title pt-3">Tutorial Fullstack Javascript</h5>
+                        <p class="card-text">This is a wider card with supporting.</p>
+                        <p class="card-text text-dark mb-0">Alfian Jeko</p>
+                        <p class="card-text"><small class="text-muted">Aug 28</small></p>
                     </div>
-                    <img class="card-img-right flex-auto d-none d-md-block" src="assets/img/code.jpg" alt="Card image cap">
                 </div>
+                <div class="card flex-md-row mb-4 box-shadow h-md-250">
+                    <div class="card-body">
+                        <img class="card-img-top" src="assets/img/code.jpg" alt="Card image cap">
+                        <h5 class="card-title pt-3">Tutorial Login Google+</h5>
+                        <p class="card-text">This is a wider card with supporting.</p>
+                        <p class="card-text text-dark mb-0">Brad Traversy</p>
+                        <p class="card-text"><small class="text-muted">Aug 28</small></p>
+                    </div>
+                </div>
+                <div class="card flex-md-row mb-4 box-shadow h-md-250">
+                    <div class="card-body">
+                        <img class="card-img-top" src="assets/img/code.jpg" alt="Card image cap">
+                        <h5 class="card-title pt-3">Tutorial Bootstrap 4</h5>
+                        <p class="card-text">This is a wider card with supporting.</p>
+                        <p class="card-text text-dark mb-0">The New Boston</p>
+                        <p class="card-text"><small class="text-muted">Aug 28</small></p>
+                    </div>
+                </div>
+            </div>
+            <!-- end card sidebar -->
+            <div class="jumbotron jumbotron-fluid pl-5" style="width: 100%;">
+              <div class="container-fluid">
+                <h1>Welcome to Medium,<br> where words matter.</h1>
+                <p>We’ll deliver the best stories and ideas on the topics<br> you care about most straight to your homepage, app,<br> or inbox.</p>
+                <a href="#" class="btn btn-sm btn-dark">Get Started</a>
+                <a href="#" class="btn btn-sm btn-outline-dark">Learn More</a>
+              </div>
             </div>
         </div>
     </div>
