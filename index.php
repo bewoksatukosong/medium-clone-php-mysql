@@ -64,8 +64,8 @@
 
             <div class="card col-4">
                 <div class="card flex-md-row mb-4 box-shadow h-md-250">
-                    <div class="card-body d-flex flex-column align-items-start">
-                      <h5 class="px-5" style="text-align: justify;">
+                    <div class="card-body d-flex flex-column align-items-startlef">
+                      <h5 class="px-5">
                             <p class="card-text mb-auto text-dark">This is a wider</p>
                       </h5>
                       <p class="card-text mb-auto text-muted">This is a wider card with.</p>
