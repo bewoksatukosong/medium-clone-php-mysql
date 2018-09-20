@@ -100,6 +100,75 @@
                 <a href="#" class="btn btn-sm btn-outline-dark">Learn More</a>
               </div>
             </div>
+
+            <!-- Featured of member -->
+            <h5 class="pl-5 mb-4">Featured of member</h5>
+            <div class="row mb-6 pl-4">
+                <div class="col-md-8">
+                    <div class="card flex-md-row mb-4 box-shadow h-md-250">
+                        <div class="card-body d-flex flex-column align-items-start">
+                          <h5 class="mb-0">
+                            <a class="text-dark" href="#">In The Future, We May Not Need to Face Our Fears</a>
+                          </h5>
+                            <p class="card-text mb-auto text-muted pt-2">This is a wider card with supporting text below as a natural lead-in.</p>
+                            <p class="card-text text-dark mt-auto">Thomas P Seager, PhD</p>
+                        <div class="mt-0 pt-0 text-muted"><small>Nov 12</small></div>     
+                    </div>
+                    <img class="card-img-right flex-auto d-none d-md-block" src="assets/img/code.jpg" alt="Card image cap">
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+            <!-- POPULAR ON MEDIUM -->
+                <div class="col-md-4">
+                    <h4 class="pb-2">Popular On Medium</h4>
+                    <div class="card flex-md-row mb-4 box-shadow h-md-250 fixed">
+                        <div class="card-body d-flex flex-column align-items-start">
+                            <h5 class="mb-0">
+                                <a class="text-dark" href="#">In The Future, We May Not Need to Face Our Fears</a>
+                            </h5>
+                            <p class="card-text mb-auto text-muted pt-2">This is a wider card with supporting text below as a natural lead-in.</p>
+                            <p class="card-text text-dark mt-auto">Thomas P Seager, PhD</p>
+                            <div class="mt-0 pt-0 text-muted"><small>Nov 12</small></div>  
+
+                            <h5 class="mb-0 mt-3">
+                                <a class="text-dark" href="#">How to make egg scrambled</a>
+                            </h5>
+                            <p class="card-text mb-auto text-muted pt-2">This is a wider card with supporting text below as a natural lead-in.</p>
+                            <p class="card-text text-dark mt-auto">Siti R, PhD</p>
+                            <div class="mt-0 pt-0 text-muted"><small>July 10</small></div> 
+
+                            <h5 class="mb-0 mt-3">
+                                <a class="text-dark" href="#">learn c# visual studio</a>
+                            </h5>
+                            <p class="card-text mb-auto text-muted pt-2">This is a wider card with supporting text below as a natural lead-in.</p>
+                            <p class="card-text text-dark mt-auto">John Doe, PhD</p>
+                            <div class="mt-0 pt-0 text-muted"><small>Feb 10</small></div> 
+
+                            <h5 class="mb-0 mt-3">
+                                <a class="text-dark" href="#">Tutorial adobe premiere pro</a>
+                            </h5>
+                            <p class="card-text mb-auto text-muted pt-2">This is a wider card with supporting text below as a natural lead-in.</p>
+                            <p class="card-text text-dark mt-auto">Sheila M, PhD</p>
+                            <div class="mt-0 pt-0 text-muted"><small>Mar 10</small></div> 
+
+                            <h5 class="mb-0 mt-3">
+                                <a class="text-dark" href="#">How to ruby on rails</a>
+                            </h5>
+                            <p class="card-text mb-auto text-muted pt-2">This is a wider card with supporting text below as a natural lead-in.</p>
+                            <p class="card-text text-dark mt-auto">Kevin Hendrawan, PhD</p>
+                            <div class="mt-0 pt-0 text-muted"><small>Mei 30</small></div> 
+                        </div>
+                    </div>
+                </div>
+            <!-- END POPULAR MEDIUM -->
         </div>
     </div>
 
